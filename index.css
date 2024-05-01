@@ -1,0 +1,1339 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+.main {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: -7%;
+    top: -7%;
+    padding: 5%;
+}
+img {
+    text-shadow: 0px 0px 20px black;
+}
+.style1 {
+    position: absolute;
+    left: 11%;
+    top: 27%;
+    transform: rotate(-73deg) scale(1.1333333333333333);
+transition: transform 0.3s ease
+}
+
+.style1:hover {
+    transform: rotate(-91deg) scale(1.3599999999999999);
+}
+.style2 {
+    position: absolute;
+    left: 67%;
+    top: 40%;
+    transform: rotate(110deg) scale(1.2666666666666666);
+transition: transform 0.8s ease
+}
+
+.style2:hover {
+    transform: rotate(168deg) scale(1.6888888888888887);
+}
+.style3 {
+    position: absolute;
+    left: 79%;
+    top: 75%;
+    transform: rotate(-95deg) scale(0.4666666666666667);
+transition: transform 1.5s ease
+}
+
+.style3:hover {
+    transform: rotate(-132deg) scale(0.24888888888888888);
+}
+.style4 {
+    position: absolute;
+    left: 8%;
+    top: 75%;
+    transform: rotate(-179deg) scale(0.6666666666666666);
+transition: transform 0.5s ease
+}
+
+.style4:hover {
+    transform: rotate(-12deg) scale(0.8888888888888888);
+}
+.style5 {
+    position: absolute;
+    left: 60%;
+    top: 73%;
+    transform: rotate(-74deg) scale(0.5333333333333333);
+transition: transform 1.4s ease
+}
+
+.style5:hover {
+    transform: rotate(-154deg) scale(0.6755555555555555);
+}
+.style6 {
+    position: absolute;
+    left: 74%;
+    top: 14%;
+    transform: rotate(-53deg) scale(1.2);
+transition: transform 0.8s ease
+}
+
+.style6:hover {
+    transform: rotate(-69deg) scale(0.72);
+}
+.style7 {
+    position: absolute;
+    left: 45%;
+    top: 51%;
+    transform: rotate(4deg) scale(0.3333333333333333);
+transition: transform 1.3s ease
+}
+
+.style7:hover {
+    transform: rotate(-133deg) scale(0.26666666666666666);
+}
+.style8 {
+    position: absolute;
+    left: 35%;
+    top: 9%;
+    transform: rotate(23deg) scale(0.2);
+transition: transform 0.2s ease
+}
+
+.style8:hover {
+    transform: rotate(56deg) scale(0.26666666666666666);
+}
+.style9 {
+    position: absolute;
+    left: 34%;
+    top: 60%;
+    transform: rotate(-20deg) scale(1.2666666666666666);
+transition: transform 0.3s ease
+}
+
+.style9:hover {
+    transform: rotate(-133deg) scale(0.6755555555555555);
+}
+.style10 {
+    position: absolute;
+    left: 20%;
+    top: 61%;
+    transform: rotate(-43deg) scale(0.6666666666666666);
+transition: transform 0.7s ease
+}
+
+.style10:hover {
+    transform: rotate(-171deg) scale(0.5333333333333333);
+}
+.style11 {
+    position: absolute;
+    left: 37%;
+    top: 72%;
+    transform: rotate(-34deg) scale(0.6666666666666666);
+transition: transform 0.3s ease
+}
+
+.style11:hover {
+    transform: rotate(78deg) scale(0.8888888888888888);
+}
+.style12 {
+    position: absolute;
+    left: 59%;
+    top: 79%;
+    transform: rotate(-114deg) scale(0.26666666666666666);
+transition: transform 1.3s ease
+}
+
+.style12:hover {
+    transform: rotate(12deg) scale(0.19555555555555554);
+}
+.style13 {
+    position: absolute;
+    left: 48%;
+    top: 44%;
+    transform: rotate(-122deg) scale(0.6666666666666666);
+transition: transform 0.6s ease
+}
+
+.style13:hover {
+    transform: rotate(93deg) scale(0.8888888888888888);
+}
+.style14 {
+    position: absolute;
+    left: 68%;
+    top: 49%;
+    transform: rotate(57deg) scale(0.2);
+transition: transform 0.5s ease
+}
+
+.style14:hover {
+    transform: rotate(96deg) scale(0.02666666666666667);
+}
+.style15 {
+    position: absolute;
+    left: 68%;
+    top: 32%;
+    transform: rotate(-37deg) scale(0.8);
+transition: transform 0.2s ease
+}
+
+.style15:hover {
+    transform: rotate(-41deg) scale(0.6400000000000001);
+}
+.style16 {
+    position: absolute;
+    left: 55%;
+    top: 19%;
+    transform: rotate(-118deg) scale(0.5333333333333333);
+transition: transform 0.3s ease
+}
+
+.style16:hover {
+    transform: rotate(25deg) scale(0.6044444444444445);
+}
+.style17 {
+    position: absolute;
+    left: 34%;
+    top: 0%;
+    transform: rotate(112deg) scale(1.1333333333333333);
+transition: transform 0.5s ease
+}
+
+.style17:hover {
+    transform: rotate(140deg) scale(0.831111111111111);
+}
+.style18 {
+    position: absolute;
+    left: 46%;
+    top: 5%;
+    transform: rotate(108deg) scale(1.3333333333333333);
+transition: transform 1.0s ease
+}
+
+.style18:hover {
+    transform: rotate(-168deg) scale(1.3333333333333333);
+}
+.style19 {
+    position: absolute;
+    left: 28%;
+    top: 4%;
+    transform: rotate(113deg) scale(0.26666666666666666);
+transition: transform 1.3s ease
+}
+
+.style19:hover {
+    transform: rotate(-71deg) scale(0.24888888888888888);
+}
+.style20 {
+    position: absolute;
+    left: 22%;
+    top: 58%;
+    transform: rotate(33deg) scale(0.7333333333333333);
+transition: transform 1.4s ease
+}
+
+.style20:hover {
+    transform: rotate(-10deg) scale(0.4888888888888888);
+}
+.style21 {
+    position: absolute;
+    left: 17%;
+    top: 7%;
+    transform: rotate(90deg) scale(0.4666666666666667);
+transition: transform 0.4s ease
+}
+
+.style21:hover {
+    transform: rotate(136deg) scale(0.5288888888888889);
+}
+.style22 {
+    position: absolute;
+    left: 19%;
+    top: 1%;
+    transform: rotate(17deg) scale(0.8);
+transition: transform 0.4s ease
+}
+
+.style22:hover {
+    transform: rotate(118deg) scale(1.0666666666666667);
+}
+.style23 {
+    position: absolute;
+    left: 49%;
+    top: 3%;
+    transform: rotate(122deg) scale(0.8666666666666667);
+transition: transform 1.1s ease
+}
+
+.style23:hover {
+    transform: rotate(-176deg) scale(0.9244444444444445);
+}
+.style24 {
+    position: absolute;
+    left: 9%;
+    top: 14%;
+    transform: rotate(-1deg) scale(0.6666666666666666);
+transition: transform 0.7s ease
+}
+
+.style24:hover {
+    transform: rotate(-150deg) scale(0.7999999999999999);
+}
+.style25 {
+    position: absolute;
+    left: 57%;
+    top: 60%;
+    transform: rotate(178deg) scale(1.2);
+transition: transform 1.2s ease
+}
+
+.style25:hover {
+    transform: rotate(155deg) scale(0.96);
+}
+.style26 {
+    position: absolute;
+    left: 10%;
+    top: 79%;
+    transform: rotate(-41deg) scale(0.4);
+transition: transform 0.7s ease
+}
+
+.style26:hover {
+    transform: rotate(-180deg) scale(0.3466666666666667);
+}
+.style27 {
+    position: absolute;
+    left: 5%;
+    top: 6%;
+    transform: rotate(-45deg) scale(0.7333333333333333);
+transition: transform 1.2s ease
+}
+
+.style27:hover {
+    transform: rotate(-151deg) scale(0.29333333333333333);
+}
+.style28 {
+    position: absolute;
+    left: 59%;
+    top: 53%;
+    transform: rotate(-30deg) scale(1.0666666666666667);
+transition: transform 0.5s ease
+}
+
+.style28:hover {
+    transform: rotate(124deg) scale(1.1377777777777778);
+}
+.style29 {
+    position: absolute;
+    left: 13%;
+    top: 12%;
+    transform: rotate(124deg) scale(1.3333333333333333);
+transition: transform 1.5s ease
+}
+
+.style29:hover {
+    transform: rotate(-2deg) scale(0.17777777777777776);
+}
+.style30 {
+    position: absolute;
+    left: 61%;
+    top: 40%;
+    transform: rotate(125deg) scale(1.0666666666666667);
+transition: transform 1.0s ease
+}
+
+.style30:hover {
+    transform: rotate(138deg) scale(1.28);
+}
+.style31 {
+    position: absolute;
+    left: 66%;
+    top: 76%;
+    transform: rotate(-15deg) scale(0.8666666666666667);
+transition: transform 0.6s ease
+}
+
+.style31:hover {
+    transform: rotate(163deg) scale(0.9244444444444445);
+}
+.style32 {
+    position: absolute;
+    left: 17%;
+    top: 12%;
+    transform: rotate(-69deg) scale(0.8666666666666667);
+transition: transform 1.5s ease
+}
+
+.style32:hover {
+    transform: rotate(42deg) scale(1.1555555555555554);
+}
+.style33 {
+    position: absolute;
+    left: 15%;
+    top: 32%;
+    transform: rotate(-156deg) scale(1.2666666666666666);
+transition: transform 0.7s ease
+}
+
+.style33:hover {
+    transform: rotate(-44deg) scale(0.8444444444444443);
+}
+.style34 {
+    position: absolute;
+    left: 19%;
+    top: 23%;
+    transform: rotate(18deg) scale(0.5333333333333333);
+transition: transform 1.5s ease
+}
+
+.style34:hover {
+    transform: rotate(-62deg) scale(0.46222222222222226);
+}
+.style35 {
+    position: absolute;
+    left: 67%;
+    top: 47%;
+    transform: rotate(-47deg) scale(1.2);
+transition: transform 0.5s ease
+}
+
+.style35:hover {
+    transform: rotate(-51deg) scale(1.2);
+}
+.style36 {
+    position: absolute;
+    left: 21%;
+    top: 20%;
+    transform: rotate(56deg) scale(0.8666666666666667);
+transition: transform 0.8s ease
+}
+
+.style36:hover {
+    transform: rotate(38deg) scale(0.52);
+}
+.style37 {
+    position: absolute;
+    left: 4%;
+    top: 32%;
+    transform: rotate(153deg) scale(0.8);
+transition: transform 1.3s ease
+}
+
+.style37:hover {
+    transform: rotate(166deg) scale(0.32000000000000006);
+}
+.style38 {
+    position: absolute;
+    left: 25%;
+    top: 67%;
+    transform: rotate(92deg) scale(0.2);
+transition: transform 0.2s ease
+}
+
+.style38:hover {
+    transform: rotate(63deg) scale(0.12);
+}
+.style39 {
+    position: absolute;
+    left: 60%;
+    top: 65%;
+    transform: rotate(-118deg) scale(0.13333333333333333);
+transition: transform 0.4s ease
+}
+
+.style39:hover {
+    transform: rotate(-140deg) scale(0.04444444444444444);
+}
+.style40 {
+    position: absolute;
+    left: 62%;
+    top: 57%;
+    transform: rotate(45deg) scale(0.26666666666666666);
+transition: transform 0.8s ease
+}
+
+.style40:hover {
+    transform: rotate(-129deg) scale(0.33777777777777773);
+}
+.style41 {
+    position: absolute;
+    left: 13%;
+    top: 58%;
+    transform: rotate(-65deg) scale(0.13333333333333333);
+transition: transform 1.4s ease
+}
+
+.style41:hover {
+    transform: rotate(-15deg) scale(0.07111111111111111);
+}
+.style42 {
+    position: absolute;
+    left: 11%;
+    top: 29%;
+    transform: rotate(-110deg) scale(1.0666666666666667);
+transition: transform 0.9s ease
+}
+
+.style42:hover {
+    transform: rotate(-74deg) scale(0.9955555555555555);
+}
+.style43 {
+    position: absolute;
+    left: 20%;
+    top: 5%;
+    transform: rotate(45deg) scale(1.1333333333333333);
+transition: transform 0.8s ease
+}
+
+.style43:hover {
+    transform: rotate(-178deg) scale(0.9822222222222222);
+}
+.style44 {
+    position: absolute;
+    left: 52%;
+    top: 15%;
+    transform: rotate(57deg) scale(0.6);
+transition: transform 0.3s ease
+}
+
+.style44:hover {
+    transform: rotate(61deg) scale(0.72);
+}
+.style45 {
+    position: absolute;
+    left: 71%;
+    top: 6%;
+    transform: rotate(-74deg) scale(0.8666666666666667);
+transition: transform 1.3s ease
+}
+
+.style45:hover {
+    transform: rotate(-17deg) scale(1.1555555555555554);
+}
+.style46 {
+    position: absolute;
+    left: 15%;
+    top: 55%;
+    transform: rotate(111deg) scale(0.8);
+transition: transform 0.4s ease
+}
+
+.style46:hover {
+    transform: rotate(-40deg) scale(0.21333333333333335);
+}
+.style47 {
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    transform: rotate(28deg) scale(1.0);
+transition: transform 1.2s ease
+}
+
+.style47:hover {
+    transform: rotate(-9deg) scale(0.6666666666666666);
+}
+.style48 {
+    position: absolute;
+    left: 13%;
+    top: 3%;
+    transform: rotate(154deg) scale(1.0);
+transition: transform 1.2s ease
+}
+
+.style48:hover {
+    transform: rotate(-57deg) scale(0.6666666666666666);
+}
+.style49 {
+    position: absolute;
+    left: 64%;
+    top: 79%;
+    transform: rotate(-27deg) scale(1.2666666666666666);
+transition: transform 0.6s ease
+}
+
+.style49:hover {
+    transform: rotate(93deg) scale(0.5911111111111111);
+}
+.style50 {
+    position: absolute;
+    left: 71%;
+    top: 39%;
+    transform: rotate(172deg) scale(0.3333333333333333);
+transition: transform 0.7s ease
+}
+
+.style50:hover {
+    transform: rotate(81deg) scale(0.3333333333333333);
+}
+.style51 {
+    position: absolute;
+    left: 2%;
+    top: 57%;
+    transform: rotate(-73deg) scale(0.6);
+transition: transform 0.9s ease
+}
+
+.style51:hover {
+    transform: rotate(177deg) scale(0.24);
+}
+.style52 {
+    position: absolute;
+    left: 22%;
+    top: 39%;
+    transform: rotate(126deg) scale(0.13333333333333333);
+transition: transform 1.4s ease
+}
+
+.style52:hover {
+    transform: rotate(-147deg) scale(0.035555555555555556);
+}
+.style53 {
+    position: absolute;
+    left: 16%;
+    top: 45%;
+    transform: rotate(133deg) scale(0.6);
+transition: transform 0.5s ease
+}
+
+.style53:hover {
+    transform: rotate(-126deg) scale(0.7599999999999999);
+}
+.style54 {
+    position: absolute;
+    left: 30%;
+    top: 28%;
+    transform: rotate(-3deg) scale(1.0666666666666667);
+transition: transform 1.0s ease
+}
+
+.style54:hover {
+    transform: rotate(-89deg) scale(1.28);
+}
+.style55 {
+    position: absolute;
+    left: 55%;
+    top: 26%;
+    transform: rotate(-148deg) scale(0.7333333333333333);
+transition: transform 0.8s ease
+}
+
+.style55:hover {
+    transform: rotate(167deg) scale(0.4888888888888888);
+}
+.style56 {
+    position: absolute;
+    left: 23%;
+    top: 16%;
+    transform: rotate(-47deg) scale(0.7333333333333333);
+transition: transform 0.3s ease
+}
+
+.style56:hover {
+    transform: rotate(-130deg) scale(0.29333333333333333);
+}
+.style57 {
+    position: absolute;
+    left: 2%;
+    top: 78%;
+    transform: rotate(-140deg) scale(0.3333333333333333);
+transition: transform 0.3s ease
+}
+
+.style57:hover {
+    transform: rotate(-71deg) scale(0.08888888888888888);
+}
+.style58 {
+    position: absolute;
+    left: 73%;
+    top: 61%;
+    transform: rotate(43deg) scale(0.9333333333333333);
+transition: transform 0.7s ease
+}
+
+.style58:hover {
+    transform: rotate(-21deg) scale(0.8711111111111112);
+}
+.style59 {
+    position: absolute;
+    left: 31%;
+    top: 27%;
+    transform: rotate(-107deg) scale(1.0666666666666667);
+transition: transform 1.1s ease
+}
+
+.style59:hover {
+    transform: rotate(-50deg) scale(0.4266666666666667);
+}
+.style60 {
+    position: absolute;
+    left: 55%;
+    top: 28%;
+    transform: rotate(-79deg) scale(0.2);
+transition: transform 0.6s ease
+}
+
+.style60:hover {
+    transform: rotate(177deg) scale(0.04000000000000001);
+}
+.style61 {
+    position: absolute;
+    left: 61%;
+    top: 41%;
+    transform: rotate(94deg) scale(0.3333333333333333);
+transition: transform 1.2s ease
+}
+
+.style61:hover {
+    transform: rotate(-97deg) scale(0.39999999999999997);
+}
+.style62 {
+    position: absolute;
+    left: 12%;
+    top: 43%;
+    transform: rotate(-28deg) scale(0.5333333333333333);
+transition: transform 1.5s ease
+}
+
+.style62:hover {
+    transform: rotate(-42deg) scale(0.10666666666666667);
+}
+.style63 {
+    position: absolute;
+    left: 63%;
+    top: 66%;
+    transform: rotate(-54deg) scale(0.26666666666666666);
+transition: transform 1.2s ease
+}
+
+.style63:hover {
+    transform: rotate(6deg) scale(0.33777777777777773);
+}
+.style64 {
+    position: absolute;
+    left: 55%;
+    top: 70%;
+    transform: rotate(149deg) scale(0.4666666666666667);
+transition: transform 0.3s ease
+}
+
+.style64:hover {
+    transform: rotate(-108deg) scale(0.09333333333333334);
+}
+.style65 {
+    position: absolute;
+    left: 17%;
+    top: 20%;
+    transform: rotate(107deg) scale(0.9333333333333333);
+transition: transform 0.5s ease
+}
+
+.style65:hover {
+    transform: rotate(2deg) scale(0.8088888888888889);
+}
+.style66 {
+    position: absolute;
+    left: 57%;
+    top: 25%;
+    transform: rotate(40deg) scale(0.8);
+transition: transform 1.3s ease
+}
+
+.style66:hover {
+    transform: rotate(-3deg) scale(1.0133333333333334);
+}
+.style67 {
+    position: absolute;
+    left: 60%;
+    top: 8%;
+    transform: rotate(-34deg) scale(0.26666666666666666);
+transition: transform 0.2s ease
+}
+
+.style67:hover {
+    transform: rotate(7deg) scale(0.19555555555555554);
+}
+.style68 {
+    position: absolute;
+    left: 77%;
+    top: 5%;
+    transform: rotate(17deg) scale(0.13333333333333333);
+transition: transform 1.2s ease
+}
+
+.style68:hover {
+    transform: rotate(-94deg) scale(0.05333333333333334);
+}
+.style69 {
+    position: absolute;
+    left: 4%;
+    top: 41%;
+    transform: rotate(117deg) scale(0.26666666666666666);
+transition: transform 0.5s ease
+}
+
+.style69:hover {
+    transform: rotate(119deg) scale(0.3022222222222222);
+}
+.style70 {
+    position: absolute;
+    left: 11%;
+    top: 23%;
+    transform: rotate(-56deg) scale(0.5333333333333333);
+transition: transform 0.7s ease
+}
+
+.style70:hover {
+    transform: rotate(42deg) scale(0.711111111111111);
+}
+.style71 {
+    position: absolute;
+    left: 26%;
+    top: 52%;
+    transform: rotate(-156deg) scale(0.4);
+transition: transform 0.8s ease
+}
+
+.style71:hover {
+    transform: rotate(123deg) scale(0.24);
+}
+.style72 {
+    position: absolute;
+    left: 12%;
+    top: 67%;
+    transform: rotate(55deg) scale(0.13333333333333333);
+transition: transform 0.3s ease
+}
+
+.style72:hover {
+    transform: rotate(7deg) scale(0.04444444444444444);
+}
+.style73 {
+    position: absolute;
+    left: 50%;
+    top: 19%;
+    transform: rotate(84deg) scale(0.26666666666666666);
+transition: transform 1.5s ease
+}
+
+.style73:hover {
+    transform: rotate(-126deg) scale(0.23111111111111113);
+}
+.style74 {
+    position: absolute;
+    left: 62%;
+    top: 69%;
+    transform: rotate(-107deg) scale(0.13333333333333333);
+transition: transform 0.3s ease
+}
+
+.style74:hover {
+    transform: rotate(-72deg) scale(0.017777777777777778);
+}
+.style75 {
+    position: absolute;
+    left: 23%;
+    top: 53%;
+    transform: rotate(-160deg) scale(0.8);
+transition: transform 0.2s ease
+}
+
+.style75:hover {
+    transform: rotate(174deg) scale(0.5866666666666667);
+}
+.style76 {
+    position: absolute;
+    left: 61%;
+    top: 28%;
+    transform: rotate(167deg) scale(1.0666666666666667);
+transition: transform 0.6s ease
+}
+
+.style76:hover {
+    transform: rotate(3deg) scale(0.64);
+}
+.style77 {
+    position: absolute;
+    left: 44%;
+    top: 75%;
+    transform: rotate(-76deg) scale(1.3333333333333333);
+transition: transform 0.9s ease
+}
+
+.style77:hover {
+    transform: rotate(105deg) scale(1.6888888888888887);
+}
+.style78 {
+    position: absolute;
+    left: 6%;
+    top: 29%;
+    transform: rotate(-73deg) scale(0.2);
+transition: transform 1.5s ease
+}
+
+.style78:hover {
+    transform: rotate(-16deg) scale(0.02666666666666667);
+}
+.style79 {
+    position: absolute;
+    left: 2%;
+    top: 37%;
+    transform: rotate(103deg) scale(1.0);
+transition: transform 0.3s ease
+}
+
+.style79:hover {
+    transform: rotate(-155deg) scale(0.13333333333333333);
+}
+.style80 {
+    position: absolute;
+    left: 58%;
+    top: 58%;
+    transform: rotate(11deg) scale(0.8666666666666667);
+transition: transform 0.2s ease
+}
+
+.style80:hover {
+    transform: rotate(-62deg) scale(0.3466666666666667);
+}
+.style81 {
+    position: absolute;
+    left: 35%;
+    top: 73%;
+    transform: rotate(-175deg) scale(0.2);
+transition: transform 1.3s ease
+}
+
+.style81:hover {
+    transform: rotate(-56deg) scale(0.04000000000000001);
+}
+.style82 {
+    position: absolute;
+    left: 57%;
+    top: 34%;
+    transform: rotate(-165deg) scale(1.0);
+transition: transform 0.2s ease
+}
+
+.style82:hover {
+    transform: rotate(-17deg) scale(0.26666666666666666);
+}
+.style83 {
+    position: absolute;
+    left: 49%;
+    top: 30%;
+    transform: rotate(-6deg) scale(0.6666666666666666);
+transition: transform 0.9s ease
+}
+
+.style83:hover {
+    transform: rotate(-75deg) scale(0.7999999999999999);
+}
+.style84 {
+    position: absolute;
+    left: 27%;
+    top: 54%;
+    transform: rotate(88deg) scale(1.2666666666666666);
+transition: transform 1.4s ease
+}
+
+.style84:hover {
+    transform: rotate(-23deg) scale(0.7599999999999999);
+}
+.style85 {
+    position: absolute;
+    left: 69%;
+    top: 45%;
+    transform: rotate(110deg) scale(1.1333333333333333);
+transition: transform 0.9s ease
+}
+
+.style85:hover {
+    transform: rotate(72deg) scale(0.831111111111111);
+}
+.style86 {
+    position: absolute;
+    left: 73%;
+    top: 33%;
+    transform: rotate(-67deg) scale(0.2);
+transition: transform 0.2s ease
+}
+
+.style86:hover {
+    transform: rotate(43deg) scale(0.18666666666666668);
+}
+.style87 {
+    position: absolute;
+    left: 63%;
+    top: 79%;
+    transform: rotate(-41deg) scale(0.13333333333333333);
+transition: transform 0.3s ease
+}
+
+.style87:hover {
+    transform: rotate(-112deg) scale(0.11555555555555556);
+}
+.style88 {
+    position: absolute;
+    left: 15%;
+    top: 43%;
+    transform: rotate(149deg) scale(0.9333333333333333);
+transition: transform 0.5s ease
+}
+
+.style88:hover {
+    transform: rotate(-54deg) scale(0.24888888888888888);
+}
+.style89 {
+    position: absolute;
+    left: 21%;
+    top: 52%;
+    transform: rotate(-180deg) scale(1.1333333333333333);
+transition: transform 1.2s ease
+}
+
+.style89:hover {
+    transform: rotate(170deg) scale(1.4355555555555555);
+}
+.style90 {
+    position: absolute;
+    left: 4%;
+    top: 21%;
+    transform: rotate(-19deg) scale(0.13333333333333333);
+transition: transform 1.5s ease
+}
+
+.style90:hover {
+    transform: rotate(-127deg) scale(0.09777777777777777);
+}
+.style91 {
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    transform: rotate(170deg) scale(1.3333333333333333);
+transition: transform 0.5s ease
+}
+
+.style91:hover {
+    transform: rotate(10deg) scale(0.17777777777777776);
+}
+.style92 {
+    position: absolute;
+    left: 3%;
+    top: 52%;
+    transform: rotate(-97deg) scale(1.3333333333333333);
+transition: transform 1.1s ease
+}
+
+.style92:hover {
+    transform: rotate(97deg) scale(0.7999999999999999);
+}
+.style93 {
+    position: absolute;
+    left: 45%;
+    top: 24%;
+    transform: rotate(-123deg) scale(0.13333333333333333);
+transition: transform 0.5s ease
+}
+
+.style93:hover {
+    transform: rotate(62deg) scale(0.13333333333333333);
+}
+.style94 {
+    position: absolute;
+    left: 3%;
+    top: 23%;
+    transform: rotate(-12deg) scale(1.0);
+transition: transform 1.2s ease
+}
+
+.style94:hover {
+    transform: rotate(113deg) scale(1.2666666666666666);
+}
+.style95 {
+    position: absolute;
+    left: 32%;
+    top: 14%;
+    transform: rotate(105deg) scale(1.0666666666666667);
+transition: transform 1.4s ease
+}
+
+.style95:hover {
+    transform: rotate(124deg) scale(0.14222222222222222);
+}
+.style96 {
+    position: absolute;
+    left: 26%;
+    top: 43%;
+    transform: rotate(-89deg) scale(0.8);
+transition: transform 1.4s ease
+}
+
+.style96:hover {
+    transform: rotate(131deg) scale(0.8533333333333334);
+}
+.style97 {
+    position: absolute;
+    left: 35%;
+    top: 70%;
+    transform: rotate(70deg) scale(0.8);
+transition: transform 0.9s ease
+}
+
+.style97:hover {
+    transform: rotate(12deg) scale(0.10666666666666667);
+}
+.style98 {
+    position: absolute;
+    left: 10%;
+    top: 3%;
+    transform: rotate(-15deg) scale(0.5333333333333333);
+transition: transform 1.3s ease
+}
+
+.style98:hover {
+    transform: rotate(107deg) scale(0.24888888888888888);
+}
+.style99 {
+    position: absolute;
+    left: 78%;
+    top: 45%;
+    transform: rotate(-124deg) scale(1.3333333333333333);
+transition: transform 0.8s ease
+}
+
+.style99:hover {
+    transform: rotate(-71deg) scale(1.511111111111111);
+}
+.style100 {
+    position: absolute;
+    left: 32%;
+    top: 70%;
+    transform: rotate(80deg) scale(1.0);
+transition: transform 0.8s ease
+}
+
+.style100:hover {
+    transform: rotate(18deg) scale(1.2666666666666666);
+}
+.style101 {
+    position: absolute;
+    left: 41%;
+    top: 42%;
+    transform: rotate(136deg) scale(0.5333333333333333);
+transition: transform 0.4s ease
+}
+
+.style101:hover {
+    transform: rotate(45deg) scale(0.4266666666666667);
+}
+.style102 {
+    position: absolute;
+    left: 24%;
+    top: 2%;
+    transform: rotate(-129deg) scale(1.3333333333333333);
+transition: transform 1.3s ease
+}
+
+.style102:hover {
+    transform: rotate(40deg) scale(1.422222222222222);
+}
+.style103 {
+    position: absolute;
+    left: 65%;
+    top: 48%;
+    transform: rotate(135deg) scale(1.2);
+transition: transform 1.2s ease
+}
+
+.style103:hover {
+    transform: rotate(100deg) scale(0.64);
+}
+.style104 {
+    position: absolute;
+    left: 52%;
+    top: 4%;
+    transform: rotate(111deg) scale(0.8666666666666667);
+transition: transform 0.3s ease
+}
+
+.style104:hover {
+    transform: rotate(141deg) scale(0.9822222222222222);
+}
+.style105 {
+    position: absolute;
+    left: 3%;
+    top: 1%;
+    transform: rotate(99deg) scale(0.6666666666666666);
+transition: transform 1.2s ease
+}
+
+.style105:hover {
+    transform: rotate(-39deg) scale(0.7999999999999999);
+}
+.style106 {
+    position: absolute;
+    left: 77%;
+    top: 2%;
+    transform: rotate(140deg) scale(1.0666666666666667);
+transition: transform 0.4s ease
+}
+
+.style106:hover {
+    transform: rotate(-157deg) scale(0.3555555555555555);
+}
+.style107 {
+    position: absolute;
+    left: 13%;
+    top: 28%;
+    transform: rotate(158deg) scale(1.1333333333333333);
+transition: transform 0.5s ease
+}
+
+.style107:hover {
+    transform: rotate(-107deg) scale(0.3022222222222222);
+}
+.style108 {
+    position: absolute;
+    left: 69%;
+    top: 35%;
+    transform: rotate(-156deg) scale(1.0);
+transition: transform 0.4s ease
+}
+
+.style108:hover {
+    transform: rotate(-131deg) scale(0.6);
+}
+.style109 {
+    position: absolute;
+    left: 22%;
+    top: 3%;
+    transform: rotate(-158deg) scale(0.6);
+transition: transform 1.3s ease
+}
+
+.style109:hover {
+    transform: rotate(-58deg) scale(0.39999999999999997);
+}
+.style110 {
+    position: absolute;
+    left: 64%;
+    top: 73%;
+    transform: rotate(37deg) scale(0.9333333333333333);
+transition: transform 0.7s ease
+}
+
+.style110:hover {
+    transform: rotate(83deg) scale(0.9955555555555555);
+}
+.style111 {
+    position: absolute;
+    left: 5%;
+    top: 21%;
+    transform: rotate(129deg) scale(0.7333333333333333);
+transition: transform 0.4s ease
+}
+
+.style111:hover {
+    transform: rotate(84deg) scale(0.2444444444444444);
+}
+.style112 {
+    position: absolute;
+    left: 17%;
+    top: 44%;
+    transform: rotate(-68deg) scale(1.0666666666666667);
+transition: transform 0.6s ease
+}
+
+.style112:hover {
+    transform: rotate(-37deg) scale(1.1377777777777778);
+}
+.style113 {
+    position: absolute;
+    left: 20%;
+    top: 48%;
+    transform: rotate(28deg) scale(0.3333333333333333);
+transition: transform 1.2s ease
+}
+
+.style113:hover {
+    transform: rotate(122deg) scale(0.26666666666666666);
+}
+.style114 {
+    position: absolute;
+    left: 36%;
+    top: 1%;
+    transform: rotate(-177deg) scale(0.13333333333333333);
+transition: transform 0.3s ease
+}
+
+.style114:hover {
+    transform: rotate(-179deg) scale(0.11555555555555556);
+}
+.style115 {
+    position: absolute;
+    left: 1%;
+    top: 43%;
+    transform: rotate(101deg) scale(0.13333333333333333);
+transition: transform 1.2s ease
+}
+
+.style115:hover {
+    transform: rotate(146deg) scale(0.12444444444444444);
+}
+.style116 {
+    position: absolute;
+    left: 23%;
+    top: 43%;
+    transform: rotate(-107deg) scale(0.4666666666666667);
+transition: transform 1.1s ease
+}
+
+.style116:hover {
+    transform: rotate(-39deg) scale(0.3422222222222222);
+}
+.style117 {
+    position: absolute;
+    left: 19%;
+    top: 4%;
+    transform: rotate(19deg) scale(0.26666666666666666);
+transition: transform 0.9s ease
+}
+
+.style117:hover {
+    transform: rotate(95deg) scale(0.12444444444444444);
+}
+.style118 {
+    position: absolute;
+    left: 5%;
+    top: 13%;
+    transform: rotate(116deg) scale(1.0);
+transition: transform 0.5s ease
+}
+
+.style118:hover {
+    transform: rotate(-48deg) scale(1.2);
+}
+.style119 {
+    position: absolute;
+    left: 39%;
+    top: 34%;
+    transform: rotate(-117deg) scale(1.0);
+transition: transform 0.9s ease
+}
+
+.style119:hover {
+    transform: rotate(169deg) scale(0.2);
+}
+.style120 {
+    position: absolute;
+    left: 50%;
+    top: 33%;
+    transform: rotate(-112deg) scale(0.8);
+transition: transform 1.5s ease
+}
+
+.style120:hover {
+    transform: rotate(14deg) scale(0.32000000000000006);
+}
