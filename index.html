@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
+    <script>
+        // JavaScript pour désactiver le défilement tactile
+        document.addEventListener('touchmove', function(event) {
+            event.preventDefault();
+        }, { passive: false });
+    </script>
     <h1>Téléchargez vos fichiers !</h1>
 
     <div class="main">
